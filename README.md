@@ -17,20 +17,20 @@ Resume Management System
 
 ## Set-Up Instructions
 - **Step #1**:\
-Log into HuggingFace website
+Log into HuggingFace website.
 
 - **Step #2**:\
 Create your own Hugginface space @ https://huggingface.co/new-space, with the following configuration:\
-• Space SDK: Docker\
-• Docker template: Streamlit\
-• Use default settings for the rest
+• **Space SDK**: _Docker_\
+• **Docker template**: _Streamlit_\
+• Use default settings for the rest.
 
 - **Step #3**:\
-Copy files from this GitHub repo -> your HuggingFace space
+Copy files from this GitHub repo -> your HuggingFace space.
 
 - **Step #4**:\
 That's it. Space will auto-build and run your program.\
-• Note: Every time you add or modify files on HuggingFace, it'll take some time to build, start, and run.
+• _Note_: Every time you add or modify files on HuggingFace, it'll take some time to build, start, and run.
 
 ## Uploading Your Code Changes (via Pull Requests)
 - Write your code (add/modify files) over at HuggingFace AND build/test them there to ensure it works and runs without any issues.
