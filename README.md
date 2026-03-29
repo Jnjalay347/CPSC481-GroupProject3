@@ -33,7 +33,7 @@ That's it. Space will auto-build and run your program.\
 • _Note_: Every time you add or modify files on HuggingFace, it'll take some time to build, start, and run.
 
 ## Uploading Your Code Changes (via Pull Requests)
-- Write your code (add/modify files) over at HuggingFace AND build/test them there to ensure it works and runs without any issues.
+- Write your code over at HuggingFace AND build/test them there to ensure it works and runs without any issues.
 - Then, upload/commit that code here on GitHub and submit a Pull Request.
 - Someone will verify & review your code to make sure it works.
 - Pushing directly into the repo will not work.\
