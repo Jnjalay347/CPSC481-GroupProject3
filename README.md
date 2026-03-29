@@ -23,7 +23,7 @@ Log into HuggingFace website
 Create your own Hugginface space @ https://huggingface.co/new-space, with the following configuration:\
 • Space SDK: Docker\
 • Docker template: Streamlit\
-• Use default settings for the rest\
+• Use default settings for the rest
 
 - **Step #3**:\
 Copy files from this GitHub repo -> your HuggingFace space
